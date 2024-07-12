@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\InvestmentOrdersProject\InvestmentOrdersProject.Infrastructure\bin\Debug\net8.0\InvestmentOrdersProject.Infrastructure.deps.json
+C:\Users\Usuario\source\repos\InvestmentOrdersProject\InvestmentOrdersProject.Infrastructure\bin\Debug\net8.0\InvestmentOrdersProject.Infrastructure.dll
+C:\Users\Usuario\source\repos\InvestmentOrdersProject\InvestmentOrdersProject.Infrastructure\bin\Debug\net8.0\InvestmentOrdersProject.Infrastructure.pdb
+C:\Users\Usuario\source\repos\InvestmentOrdersProject\InvestmentOrdersProject.Infrastructure\bin\Debug\net8.0\InvestmentOrdersProject.Domain.dll
+C:\Users\Usuario\source\repos\InvestmentOrdersProject\InvestmentOrdersProject.Infrastructure\bin\Debug\net8.0\InvestmentOrdersProject.Domain.pdb
+C:\Users\Usuario\source\repos\InvestmentOrdersProject\InvestmentOrdersProject.Infrastructure\obj\Debug\net8.0\InvestmentOrdersProject.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\InvestmentOrdersProject\InvestmentOrdersProject.Infrastructure\obj\Debug\net8.0\InvestmentOrdersProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\InvestmentOrdersProject\InvestmentOrdersProject.Infrastructure\obj\Debug\net8.0\InvestmentOrdersProject.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\InvestmentOrdersProject\InvestmentOrdersProject.Infrastructure\obj\Debug\net8.0\InvestmentOrdersProject.Infrastructure.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\InvestmentOrdersProject\InvestmentOrdersProject.Infrastructure\obj\Debug\net8.0\InvestmentOrdersProject.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\InvestmentOrdersProject\InvestmentOrdersProject.Infrastructure\obj\Debug\net8.0\Investme.F2F61A76.Up2Date
+C:\Users\Usuario\source\repos\InvestmentOrdersProject\InvestmentOrdersProject.Infrastructure\obj\Debug\net8.0\InvestmentOrdersProject.Infrastructure.dll
+C:\Users\Usuario\source\repos\InvestmentOrdersProject\InvestmentOrdersProject.Infrastructure\obj\Debug\net8.0\refint\InvestmentOrdersProject.Infrastructure.dll
+C:\Users\Usuario\source\repos\InvestmentOrdersProject\InvestmentOrdersProject.Infrastructure\obj\Debug\net8.0\InvestmentOrdersProject.Infrastructure.pdb
+C:\Users\Usuario\source\repos\InvestmentOrdersProject\InvestmentOrdersProject.Infrastructure\obj\Debug\net8.0\ref\InvestmentOrdersProject.Infrastructure.dll
+C:\Users\Usuario\source\repos\InvestmentOrdersProject\InvestmentOrdersProject.Infrastructure\bin\Debug\net8.0\InvestmentOrdersProject.Infrastructure.runtimeconfig.json
+C:\Users\Usuario\source\repos\InvestmentOrdersProject\InvestmentOrdersProject.Infrastructure\obj\Debug\net8.0\InvestmentOrdersProject.Infrastructure.genruntimeconfig.cache

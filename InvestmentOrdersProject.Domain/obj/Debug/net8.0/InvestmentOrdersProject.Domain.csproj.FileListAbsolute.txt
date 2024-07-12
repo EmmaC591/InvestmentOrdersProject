@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\InvestmentOrdersProject\InvestmentOrdersProject.Domain\bin\Debug\net8.0\InvestmentOrdersProject.Domain.deps.json
+C:\Users\Usuario\source\repos\InvestmentOrdersProject\InvestmentOrdersProject.Domain\bin\Debug\net8.0\InvestmentOrdersProject.Domain.dll
+C:\Users\Usuario\source\repos\InvestmentOrdersProject\InvestmentOrdersProject.Domain\bin\Debug\net8.0\InvestmentOrdersProject.Domain.pdb
+C:\Users\Usuario\source\repos\InvestmentOrdersProject\InvestmentOrdersProject.Domain\obj\Debug\net8.0\InvestmentOrdersProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\InvestmentOrdersProject\InvestmentOrdersProject.Domain\obj\Debug\net8.0\InvestmentOrdersProject.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\InvestmentOrdersProject\InvestmentOrdersProject.Domain\obj\Debug\net8.0\InvestmentOrdersProject.Domain.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\InvestmentOrdersProject\InvestmentOrdersProject.Domain\obj\Debug\net8.0\InvestmentOrdersProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\InvestmentOrdersProject\InvestmentOrdersProject.Domain\obj\Debug\net8.0\InvestmentOrdersProject.Domain.dll
+C:\Users\Usuario\source\repos\InvestmentOrdersProject\InvestmentOrdersProject.Domain\obj\Debug\net8.0\refint\InvestmentOrdersProject.Domain.dll
+C:\Users\Usuario\source\repos\InvestmentOrdersProject\InvestmentOrdersProject.Domain\obj\Debug\net8.0\InvestmentOrdersProject.Domain.pdb
+C:\Users\Usuario\source\repos\InvestmentOrdersProject\InvestmentOrdersProject.Domain\obj\Debug\net8.0\ref\InvestmentOrdersProject.Domain.dll

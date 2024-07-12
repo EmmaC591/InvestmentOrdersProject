@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "InvestmentOrdersProject.Domain/1.0.0": {
+        "runtime": {
+          "InvestmentOrdersProject.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InvestmentOrdersProject.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
